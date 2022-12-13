@@ -1,0 +1,15 @@
+.list-el{
+    list-style-type: none;
+    margin-right: 25px;
+    
+
+}
+.link{
+    text-decoration: none;
+
+}
+.container-ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
